@@ -6,7 +6,6 @@ UNTUK PERINTAH CRACK
     
 
 
-
 git clone https://github.com/Yadarobret/Crack
 
 cd Crack
