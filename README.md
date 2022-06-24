@@ -7,10 +7,10 @@ UNTUK PERINTAH CRACK
 
 
 
-git clone git clone https://github.com/Yadarobret/Crack
+☆     git clone git clone https://github.com/Yadarobret/Crack
 
-cd Crack
+☆     cd Crack
 
-ls
+☆     ls
 
-python 'r & j.py'
+☆     python 'r & j.py'
