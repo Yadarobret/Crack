@@ -7,7 +7,7 @@ UNTUK PERINTAH CRACK
 
 
 
-git clone git clone https://github.com/Yadarobret/Crack
+git clone https://github.com/Yadarobret/Crack
 
 cd Crack
 
